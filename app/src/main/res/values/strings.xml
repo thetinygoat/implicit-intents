@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string name="www_facebook_com">http://www.facebook.com</string>
+    <string name="open_website">open website</string>
+    <string name="golden_gate">Golden gate</string>
+    <string name="open_location">open location</string>
+    <string name="hi_everyone">hi everyone</string>
+    <string name="share_text">share text</string>
+    <string name="chooser_title">Share Text With</string>
+</resources>
